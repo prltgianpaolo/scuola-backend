@@ -1,0 +1,58 @@
+# Project files
+HELP.md
+
+# Build output
+/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Maven Wrapper
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle build
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+.sts4-cache/
+
+# STS (Spring Tool Suite)
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Postman exports
+/postman/*.json
+
+
