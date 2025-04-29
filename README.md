@@ -72,8 +72,8 @@ Realizzare un'applicazione backend per la gestione di una scuola privata, con fu
     - Swagger UI: `http://localhost:8080/swagger-ui/index.html`
     - H2 Database Console: `http://localhost:8080/h2-console`
 
-> Username H2 Console: `sa`  
-> Password: *(lascia vuoto)*
+> Username H2 Console: `username`  
+> Password: `password`
 
 ## Dataset iniziale
 All'avvio vengono creati automaticamente:
